@@ -1,12 +1,14 @@
 # Jemima Orakwue
 
-I am an aspiring software engineer who does not exactly know what to specialise in. Whether that be back-end or front end. I'm currently on a break and have secured a placement at Kainos.
+I am an aspiring software engineer who does not know what to specialise in. Whether that be back-end or front-end. I'm currently on a break and have secured a placement at Kainos.
 
 Here are the languages and frameworks that I am familiar with:
 - Python
 - C#
 - PHP
 - JavaScript
+- Kotlin
+- Flutter
 - HTML & CSS
 - Laravel
 - Node
