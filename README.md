@@ -1,5 +1,15 @@
-### Hi there 👋
+# Jemima Orakwue
 
+I am an aspiring software engineer who does not exactly know what to specialise in. Whether that be back-end or front end. I'm currently on a break and have secured a placement at Kainos.
+
+Here are the languages and frameworks that I am familiar with:
+- Python
+- C#
+- PHP
+- JavaScript
+- HTML & CSS
+- Laravel
+- Node
 <!--
 **jemorak/jemorak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
