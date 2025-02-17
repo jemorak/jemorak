@@ -1,9 +1,8 @@
 # ✨ Hi, I'm Jemima Orakwue! ✨
-I'm an aspiring **Software Engineer** who is still exploring the vast world of tech! 💻 Whether it's **Back-End** or **Front-End**, I'm on a journey to figure out what lights my passion. 🔍✨ Currently, I'm on a break and have secured an exciting placement at **Kainos**! 🎉
 
 ### 🌸 About Me:
 - 👩‍💻 Aspiring Software Engineer
-- 💼 Currently on placement year, working at at **Kainos**
+- 💼 Currently on placement year, working at **Kainos**
 - 🤔 Exploring back-end vs. front-end
 - 🎯 Always learning and growing!
 
@@ -43,12 +42,11 @@ I'm an aspiring **Software Engineer** who is still exploring the vast world of t
 ---
 
 ### 🎨 Fun Facts:
-- 📚 I love reading and learning new things every day.
-- 💡 I'm passionate about solving problems and building things from scratch.
-- 🧩 I enjoy puzzles and games that make me think outside the box!
+- 📚 I love reading and learning new things.
+- 💡 I'm passionate about solving problems (even if it is painful) and building things from scratch.
+- 🧩 I enjoy puzzles and games that make me think outside the box and get creative!
 
 ---
 
 ### 📫 Let's Connect:
-- 💬 Feel free to reach out to me for collaborations or just to chat about tech!
 - <img alt="TypeScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width=20> You can connect with me on [Linkedin](https://www.linkedin.com/in/jemima-orakwue/) 
