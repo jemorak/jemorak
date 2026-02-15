@@ -51,6 +51,25 @@ I enjoy building thoughtful, user-focused products and turning ideas into clean,
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=white">
 </p>
 
+## Final Year Project
+
+**AI-Driven Music Coach** *(In Progress)*
+
+Designing and developing an intelligent piano practice assistant that delivers adaptive, real-time feedback via MIDI input and rule-based AI.
+
+Key areas of exploration:
+
+- AI-driven evaluation logic  
+- Real-time interaction & feedback loops  
+- Full-stack architecture  
+- User-centred product design  
+
+Built using React / Next.js, Python, and relational databases.
+
+> Repository currently private while development is ongoing.
+
+
+
 ## Interests
 
 - Building clean, usable interfaces  
